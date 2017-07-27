@@ -1,0 +1,13 @@
+---
+title:  "ACSEO"
+subtitle: "Applications Web et Mobiles"
+author: "Nicolas POTIER"
+avatar: "img/authors/nicolaspotier.jpeg"
+image: "img/acseo.jpg"
+date:   2017-07-26 00:00:00
+captionColor : 'black'
+---
+
+### Associé @acseo
+
+[http://www.acseo.fr](http://www.acseo.fr)
