@@ -7,4 +7,13 @@ image: "img/marseille.jpg"
 date:   2017-07-24 00:00:00
 ---
 
-### Marseille
+### Citoyen @Marseille
+
+Je suis né et j'ai grandi à **Marseille**. J'ai aussi eu la chance de parcourir
+le **Monde**, de Tokyo à San Francisco, en passant par Paris.
+
+Amoureux de ma ville, conscient de ses qualités mais aussi des ses défauts,
+je suis encore et toujours surpris par ses clichés qui circulent sur la Ville.
+
+
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/TBDYl-NiixM" frameborder="0" allowfullscreen></iframe>
