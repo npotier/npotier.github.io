@@ -162,6 +162,7 @@ var demo = (function (window) {
 
             sequence.add(tweenOtherCards);
             sequence.add(card.openCard(_onCardMove), 0);
+            $(this).find(SELECTORS.cardImage).find('image').css('display', 'none');
 
         } else {
             // Close sequence.
@@ -171,6 +172,7 @@ var demo = (function (window) {
 
             sequence.add(closeCard);
             sequence.add(tweenOtherCards, position);
+            $(this).find(SELECTORS.cardImage).find('image').css('display', 'block');
         }
 
         sequence.play();
@@ -217,6 +219,9 @@ var demo = (function (window) {
         var imagePath = $(image).attr('xlink:href');
 
         $(SELECTORS.pattern).css('background-image', 'url(' + imagePath + ')');
+        $(SELECTORS.pattern).css('background-size', '100%');
+        $(SELECTORS.pattern).css('background-position', '0px 0px');
+
     };
 
     /**
