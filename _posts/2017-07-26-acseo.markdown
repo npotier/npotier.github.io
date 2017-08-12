@@ -10,4 +10,14 @@ captionColor : 'black'
 
 ### Associé @acseo
 
-[http://www.acseo.fr](http://www.acseo.fr)
+**ACSEO** répond aux besoins des **entreprises** et des **startups** pour
+concevoir et mettre en place les **applications de demain**.
+
+Depuis 2009, nous accompagnons nos clients sur le chemin de la transformation
+digitale qui boulverse nos quotidiens.
+
+Fondé avec Grégory NOHARET, Hubert MARIN et Sébastien LAURENS,
+**ACSEO** combine Conseil et Technologie pour comprendre les enjeux de
+ses clients et tirer parti des nouvelles technologies.
+
+Plus d'informations sur : [https://www.acseo.fr](https://www.acseo.fr)

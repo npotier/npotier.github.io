@@ -10,4 +10,9 @@ captionColor : 'black'
 
 ### Ange gardien @PFactory
 
-[http://www.pfactory.co](http://www.pfactory.co)
+Depuis 2014, PFactory accompagne et accélère les startups de la région PACA.
+
+Fidèle à mes principes et mon engagement auprès des entrepreneurs d'Aix-Marseille,
+j'ai rejoint PFactory en 2016.
+
+Toutes les infos sur PFactory ici : [http://www.pfactory.co](http://www.pfactory.co)
