@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="post-content">
+  <h1>
+    {{ page.title }}
+  </h1>
+  {% if site.hide_post_date != true %}
+    {% include post-date.html %}
+  {% endif %}
+  {% if page.image %}
+    <div class="featured-image">
+      <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+    </div>
+    <!-- <style>
+      .content-wrapper{
+        background-color: rgba(255, 255, 255, 1);
+      }
+      body {
+        
+        background-image: linear-gradient(
+        rgba(0, 0, 0, 0.3), 
+        rgba(0, 0, 0, 0.3)
+      ),  /*Applique un filtre noir sur l'image*/
+      url({{ site.github.url }}/assets/img/{{ page.image }});
+
+      }
+    </style> -->
+    {% endif %}
+
+  <article>
+    {{ content }}
+  </article>
+  {% if site.hide_post_share != true %}
+    {% include post-share.html %}
+  {% endif %}
+  {% if site.hide_related_posts != true %}
+    {% include related-posts.html %}
+  {% endif %}
+  {% if site.data.settings.disqus.comments %}
+    {% include disqus.html %}
+  {% endif %}
+</div>

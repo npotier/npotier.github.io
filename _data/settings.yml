@@ -1,0 +1,27 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'millennial-3'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+menu:
+- {name: 'ACSEO',  url: 'https://www.acseo.fr'}
+- {name: 'Tour du monde', url: '/tour-du-monde'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'twitter', link:    'https://twitter.com/nicolaspotier'}
+- {icon: 'linkedin', link:   'https://www.linkedin.com/in/nicolaspotier/'}
+
+# Customize site text
+pagination:
+  next_page: 'Artices plus récents'
+  previous_page: 'Articles plus anciens'
+
+sharing_button_prompt: ''
+
+related_posts: ''
+
+post_date_prefix: 'Rédigé le'
