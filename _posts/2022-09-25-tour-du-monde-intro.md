@@ -20,5 +20,6 @@ Objectif : publier toutes les semaines un contenu audio que vous pourrez retrouv
 Les épisodes seront accessibles sur ce site mais aussi sur vos plateformes préférées :
 
 * [Spotify](https://open.spotify.com/show/4vN9wFmh02fB8a5ADPpMgv?si=cb527947ed14419c)
+* [Apple Podcast](https://podcasts.apple.com/us/podcast/acseo-tour-du-monde/id1646976272)
 
 A bientôt !
