@@ -17,4 +17,8 @@ Je m'estime très chanceux de pouvoir réaliser ce voyage. J'ai eu l'idée de cr
 
 Objectif : publier toutes les semaines un contenu audio que vous pourrez retrouver sur ce site.
 
+Les épisodes seront accessibles sur ce site mais aussi sur vos plateformes préférées :
+
+* [Spotify](https://open.spotify.com/show/4vN9wFmh02fB8a5ADPpMgv?si=cb527947ed14419c)
+
 A bientôt !
