@@ -16,4 +16,4 @@ Amoureux de ma ville, conscient de ses qualités mais aussi des ses défauts,
 je suis encore et toujours surpris par ses clichés qui circulent sur la Ville.
 
 
-<iframe width="100%" height="400px" src="https://www.youtube.com/embed/TBDYl-NiixM" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400px" src="https://www.youtube.com/embed/RasEWjNdoTI?si=3hUwtNh1i_qEWA8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
