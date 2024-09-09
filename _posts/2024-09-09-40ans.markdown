@@ -12,7 +12,7 @@ date:   2024-09-09 00:00:00
 <hr />
 Pour passer ce merveilleux cap, nous serions très heureux de vous compter parmi nous le samedi 5 octobre à partir pour une soirée (sans enfant) de fête et de paillettes !
 <hr />
-Si vous le souhaitez, vous pouvez participer à une cagnotte pour un voyage en Islande. Ce QR Code renverra sur Paypal.
+Si vous le souhaitez, vous pouvez participer à une cagnotte pour un voyage en Islande. <a style="border-bottom:2px solid blue" href="https://paypal.me/bellisperrenis?country.x=FR&locale.x=fr_FR">Rendez-vous sur cette page</a> ou via ce QR Code sur Paypal.
 
 <p style="text-align: center;">
     <img src="img/paypal.jpg" width='200px' />
